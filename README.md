@@ -4,8 +4,11 @@ The rapid advancement in technology allows us to create devices in order to help
 
 Components used:
 •	Arduino Uno Microcontroller
+
 •	Ultrasonic Sensor HC-SR04 – ultrasonic proximity sensor
+
 •	Micro Servo Motor – indicates if there is an obstacle on the right or left side of the user
+
 •	Vibration Motor – indicates if there is an obstacle in front of the user
 •	Buzzer (Speaker) – a sound indicator that is used in addition to the vibration motor when an obstacle is in front of the user
 •	Electrical Relay – auxiliary component that is used to connect two components to a single output pin
