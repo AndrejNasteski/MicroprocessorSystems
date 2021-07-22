@@ -11,8 +11,8 @@ Components used:
 
 •	Vibration Motor – indicates if there is an obstacle in front of the user
 •	Buzzer (Speaker) – a sound indicator that is used in addition to the vibration motor when an obstacle is in front of the user
-•	Electrical Relay – auxiliary component that is used to connect two components to a single output pin
-•	Power source
+  •	Electrical Relay – auxiliary component that is used to connect two components to a single output pin
+  •	Power source
 •	Electrical Switch –an on/off switch for the device
 
 
